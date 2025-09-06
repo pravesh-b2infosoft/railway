@@ -1,0 +1,9 @@
+[phps]
+version = "8.2"
+extensions = ["pdo_mysql", "mbstring", "openssl", "bcmath", "curl", "xml"]
+
+[composer]
+install = true
+
+[node]
+version = "18"
